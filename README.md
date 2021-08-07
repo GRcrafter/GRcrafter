@@ -1,4 +1,4 @@
-Im a beginner programmer learning python as a hobby
+Im a beginner programmer learning python on and off as a hobby
 
 <!---
 GRcrafter/GRcrafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
